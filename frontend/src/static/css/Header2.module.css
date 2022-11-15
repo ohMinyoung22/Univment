@@ -1,0 +1,27 @@
+@import url(//fonts.googleapis.com/earlyaccess/jejumyeongjo.css);
+
+.jejumyeongjo * {
+  font-family: "Jeju Myeongjo", serif;
+}
+
+.headerBody {
+  position: relative;
+  background-color: #18264f;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100vw;
+  height: 7vh;
+  border: none;
+  box-shadow: 0px 5px 25px 0px #18264f;
+}
+
+.logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-family: "Jeju Myeongjo", serif;
+  font-size: 2.5vh;
+}

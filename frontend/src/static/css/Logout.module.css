@@ -1,0 +1,11 @@
+.logout {
+  position: absolute;
+  right: 1vw;
+  top: 2vh;
+  border: none;
+  cursor: pointer;
+}
+.logout:hover {
+  color: brown;
+  transition: all 0.5s linear;
+}

@@ -1,0 +1,26 @@
+@import url(//fonts.googleapis.com/earlyaccess/jejumyeongjo.css);
+
+.jejumyeongjo * {
+  font-family: "Jeju Myeongjo", serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 90vh;
+}
+
+.textWrap {
+  display: flex;
+  font-family: "Jeju Myeongjo", serif;
+  font-size: 3vh;
+  color: #18264f;
+}
+
+.btnWrap {
+  display: flex;
+  column-gap: 5vw;
+}
